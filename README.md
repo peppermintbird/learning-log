@@ -29,8 +29,8 @@ When an exoplanet passes in front of its host star (again, transits), it blocks 
    - Caltech/IPAC Exoplanet Archive: [Transiting Exoplanets](https://exoplanets.nasa.gov/the-search-for-life/habitable-planets/transit-method/) - Information on the transit method and its significance in exoplanet research.
 
 2. **Interactive Sources:**
-   - Exoplanet Transit Simulator: [University of Nebraska-Lincoln](http://astro.unl.edu/naap/exercises/exercise_transitSimulator.html) - Interactive tool allowing users to simulate exoplanet transits and understand the associated light curve.
-   - NASA's Eyes on Exoplanets: [Transit Tracks](https://eyes.nasa.gov/apps/exo.html) - Interactive visualization tool for exploring exoplanet transits within the Milky Way galaxy.
+   - Exoplanet Transit Simulator: [University of Nebraska-Lincoln](https://astro.unl.edu/naap/esp/animations/transitSimulator.html) - Interactive tool allowing users to simulate exoplanet transits and understand the associated light curve.
+   - NASA's Eyes on Exoplanets: [Transit Tracks](https://eyes.nasa.gov/apps/exo/#/) - Interactive visualization tool for exploring exoplanet transits within the Milky Way galaxy.
 
 3. **Videos:**
    - TED-Ed: [How Do We Find Exoplanets?](https://www.youtube.com/watch?v=y8qX-kZuwmo) - An animated video explaining various methods of exoplanet detection, including the transit method.
